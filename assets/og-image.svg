@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b2540"/>
+      <stop offset="1" stop-color="#12324f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g stroke="#173a5c" stroke-width="2" opacity="0.5">
+    <path d="M0 160 H1200 M0 320 H1200 M0 480 H1200"/>
+  </g>
+  <g transform="translate(90,120)">
+    <rect x="0" y="0" width="70" height="70" rx="16" fill="#f5a623"/>
+    <text x="35" y="48" font-family="Arial, sans-serif" font-size="34" font-weight="900" fill="#0b2540" text-anchor="middle">GM</text>
+    <text x="95" y="50" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#ffffff">Gulf<tspan fill="#f5a623">Makers</tspan></text>
+  </g>
+  <text x="90" y="330" font-family="Arial, sans-serif" font-size="72" font-weight="800" fill="#ffffff">Manufacturing Jobs</text>
+  <text x="90" y="410" font-family="Arial, sans-serif" font-size="72" font-weight="800" fill="#f5a623">across the Gulf</text>
+  <text x="90" y="480" font-family="Arial, sans-serif" font-size="30" fill="#cfdcea">UAE · Saudi Arabia · Qatar · Oman · Bahrain · Kuwait</text>
+  <text x="90" y="565" font-family="Arial, sans-serif" font-size="26" fill="#9db2c6">Powered by <tspan fill="#f5a623" font-weight="700">Business Umbrella</tspan></text>
+  <g transform="translate(980,120)" fill="#f5a623" opacity="0.9">
+    <rect x="0" y="220" width="34" height="140" rx="4"/>
+    <rect x="48" y="160" width="34" height="200" rx="4"/>
+    <rect x="96" y="90" width="34" height="270" rx="4"/>
+  </g>
+</svg>

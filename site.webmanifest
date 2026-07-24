@@ -1,0 +1,12 @@
+{
+  "name": "GulfMakers — Manufacturing Jobs in the Gulf",
+  "short_name": "GulfMakers",
+  "description": "The specialist job board for manufacturing and industrial careers across the GCC.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0b2540",
+  "theme_color": "#0b2540",
+  "icons": [
+    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

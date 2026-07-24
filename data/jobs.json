@@ -1,0 +1,484 @@
+{
+  "jobs": [
+    {
+      "slug": "production-supervisor-jubail-gulf-steel",
+      "title": "Production Supervisor",
+      "company": "Gulf Steel Industries LLC",
+      "category": "Production & Operations",
+      "city": "Jubail",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Mid–Senior level",
+      "remote": false,
+      "salaryMin": 12000,
+      "salaryMax": 16000,
+      "salaryCurrency": "SAR",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-20",
+      "validThrough": "2026-09-30",
+      "summary": "Lead a steel rolling-mill production shift, driving output, quality and safety targets across a 24/7 operation in Jubail Industrial City.",
+      "responsibilities": [
+        "Supervise 25–30 operators across melting, casting and rolling lines during your shift.",
+        "Hit daily tonnage, yield and OEE targets while minimising downtime and scrap.",
+        "Enforce HSE standards, LOTO procedures and permit-to-work compliance on the floor.",
+        "Coordinate with maintenance to schedule preventive work and resolve breakdowns fast.",
+        "Report shift KPIs and lead daily handover and toolbox-talk meetings."
+      ],
+      "requirements": [
+        "Diploma or Bachelor's in Mechanical, Industrial or Metallurgical Engineering.",
+        "5+ years in a heavy-industry / steel or metals production environment.",
+        "Proven people-leadership of a shift team of 20+.",
+        "Strong knowledge of lean manufacturing, 5S and root-cause analysis.",
+        "GCC experience and transferable Iqama preferred."
+      ],
+      "benefits": [
+        "Housing and transport allowance",
+        "Annual air ticket and 30 days paid leave",
+        "Medical insurance for self and family",
+        "Performance bonus"
+      ]
+    },
+    {
+      "slug": "cnc-machinist-dubai-precision-metalworks",
+      "title": "CNC Machinist (3 & 5-Axis)",
+      "company": "Precision Metalworks Gulf",
+      "category": "Machining & Fabrication",
+      "city": "Dubai",
+      "region": "Dubai",
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Associate",
+      "remote": false,
+      "salaryMin": 6000,
+      "salaryMax": 9000,
+      "salaryCurrency": "AED",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-22",
+      "validThrough": "2026-09-15",
+      "summary": "Operate and set up CNC milling and turning centres to produce precision components for the oil & gas and aerospace supply chain in Dubai Industrial City.",
+      "responsibilities": [
+        "Set up, program (edit) and operate 3- and 5-axis CNC machines (Fanuc / Siemens).",
+        "Read and interpret engineering drawings and GD&T to tight tolerances.",
+        "Perform first-article inspection using micrometers, verniers and CMM.",
+        "Maintain tooling, offsets and machine housekeeping to spec.",
+        "Meet cycle-time and quality targets with minimal rework."
+      ],
+      "requirements": [
+        "ITI / Diploma in Machining, Mechanical or Production Engineering.",
+        "3+ years hands-on CNC setting and operating experience.",
+        "Ability to read G-code and edit programs at the machine.",
+        "Strong measurement and blueprint-reading skills.",
+        "Available in the UAE with valid visa or on visit visa."
+      ],
+      "benefits": [
+        "Company visa and medical insurance",
+        "Overtime pay",
+        "Annual leave and air ticket",
+        "Skill-based increments"
+      ]
+    },
+    {
+      "slug": "quality-control-engineer-ras-laffan-arabian-petrochem",
+      "title": "Quality Control Engineer",
+      "company": "Arabian Petrochem Solutions",
+      "category": "Quality & QA/QC",
+      "city": "Ras Laffan",
+      "region": "Al Khor",
+      "country": "Qatar",
+      "countryCode": "QA",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Mid level",
+      "remote": false,
+      "salaryMin": 14000,
+      "salaryMax": 19000,
+      "salaryCurrency": "QAR",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-18",
+      "validThrough": "2026-09-20",
+      "summary": "Own product and process quality for a petrochemical plant in Ras Laffan Industrial City, from incoming raw materials to finished polymer batches.",
+      "responsibilities": [
+        "Run and interpret lab tests (MFI, density, tensile, ash content) on polymer product.",
+        "Manage non-conformance reports, CAPA and batch release decisions.",
+        "Audit process compliance against ISO 9001 and customer specifications.",
+        "Calibrate and maintain QC lab instruments and documentation.",
+        "Support customer complaints investigations with data-driven root cause."
+      ],
+      "requirements": [
+        "Bachelor's in Chemical Engineering, Polymer Science or Chemistry.",
+        "4+ years QA/QC in petrochemicals, plastics or process industry.",
+        "Working knowledge of ISO 9001 and statistical process control.",
+        "Experience with lab instrumentation and LIMS.",
+        "GCC / Qatar experience an advantage."
+      ],
+      "benefits": [
+        "Tax-free salary",
+        "Family accommodation and schooling support",
+        "Comprehensive medical cover",
+        "Annual bonus and tickets"
+      ]
+    },
+    {
+      "slug": "maintenance-technician-mechanical-sohar-aluminium",
+      "title": "Mechanical Maintenance Technician",
+      "company": "Sohar Aluminium Processing Co.",
+      "category": "Maintenance & Reliability",
+      "city": "Sohar",
+      "region": "Al Batinah North",
+      "country": "Oman",
+      "countryCode": "OM",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Associate",
+      "remote": false,
+      "salaryMin": 450,
+      "salaryMax": 650,
+      "salaryCurrency": "OMR",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-21",
+      "validThrough": "2026-09-25",
+      "summary": "Keep casting and extrusion equipment running at a Sohar aluminium plant through preventive and breakdown maintenance.",
+      "responsibilities": [
+        "Carry out preventive and corrective maintenance on pumps, gearboxes, conveyors and hydraulics.",
+        "Diagnose mechanical faults and execute repairs to minimise downtime.",
+        "Support planned shutdowns and overhauls of major equipment.",
+        "Maintain accurate work-order records in the CMMS.",
+        "Follow all HSE, LOTO and confined-space procedures."
+      ],
+      "requirements": [
+        "Diploma / ITI in Mechanical or Mechatronics.",
+        "3+ years maintenance experience in a heavy manufacturing plant.",
+        "Hands-on with alignment, bearings, seals and hydraulic systems.",
+        "Willing to work rotating shifts.",
+        "Omani nationals and GCC-experienced candidates encouraged to apply."
+      ],
+      "benefits": [
+        "Housing and transport",
+        "Medical insurance",
+        "Shift and overtime allowances",
+        "Annual leave and ticket"
+      ]
+    },
+    {
+      "slug": "plant-manager-sharjah-emirates-fmcg",
+      "title": "Plant Manager",
+      "company": "Emirates FMCG Manufacturing",
+      "category": "Management & Leadership",
+      "city": "Sharjah",
+      "region": "Sharjah",
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Director",
+      "remote": false,
+      "salaryMin": 35000,
+      "salaryMax": 48000,
+      "salaryCurrency": "AED",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-15",
+      "validThrough": "2026-09-30",
+      "summary": "Run full P&L, operations and people for a fast-moving consumer-goods manufacturing plant in Sharjah with 200+ staff.",
+      "responsibilities": [
+        "Own site safety, quality, output, cost and delivery performance.",
+        "Lead production, maintenance, QA, warehouse and planning managers.",
+        "Drive continuous-improvement, OEE and cost-reduction programmes.",
+        "Ensure food-safety and regulatory compliance (HACCP, ISO 22000).",
+        "Deliver the annual operating plan and capex projects."
+      ],
+      "requirements": [
+        "Bachelor's in Engineering; MBA a plus.",
+        "12+ years in manufacturing with 5+ in plant leadership.",
+        "FMCG / food & beverage manufacturing background preferred.",
+        "Strong lean / TPM and financial acumen.",
+        "GCC leadership experience essential."
+      ],
+      "benefits": [
+        "Executive package with car and housing",
+        "Family medical and schooling",
+        "Annual performance bonus",
+        "Relocation support"
+      ]
+    },
+    {
+      "slug": "hse-officer-sitra-gulf-cement",
+      "title": "HSE Officer",
+      "company": "Gulf Cement & Aggregates",
+      "category": "Health, Safety & Environment",
+      "city": "Sitra",
+      "region": "Capital Governorate",
+      "country": "Bahrain",
+      "countryCode": "BH",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Mid level",
+      "remote": false,
+      "salaryMin": 700,
+      "salaryMax": 1000,
+      "salaryCurrency": "BHD",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-19",
+      "validThrough": "2026-09-18",
+      "summary": "Champion a zero-harm culture across a cement and aggregates manufacturing site in Sitra, Bahrain.",
+      "responsibilities": [
+        "Conduct risk assessments, safety inspections and incident investigations.",
+        "Deliver toolbox talks, inductions and HSE training programmes.",
+        "Maintain permit-to-work, LOTO and contractor-safety systems.",
+        "Track and report HSE KPIs and drive corrective actions.",
+        "Support ISO 45001 and ISO 14001 audits and compliance."
+      ],
+      "requirements": [
+        "Bachelor's / Diploma with NEBOSH IGC (IDip a plus).",
+        "4+ years HSE experience in manufacturing, cement or heavy industry.",
+        "Knowledge of GCC labour and environmental regulations.",
+        "First-aid and fire-warden certification desirable.",
+        "Strong reporting and communication skills."
+      ],
+      "benefits": [
+        "Medical insurance",
+        "Transport allowance",
+        "Annual leave and ticket",
+        "Professional development support"
+      ]
+    },
+    {
+      "slug": "welder-6g-dammam-national-fabrication",
+      "title": "Welder — 6G Certified (SMAW/GTAW)",
+      "company": "National Fabrication Works",
+      "category": "Machining & Fabrication",
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Associate",
+      "remote": false,
+      "salaryMin": 4000,
+      "salaryMax": 6500,
+      "salaryCurrency": "SAR",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-23",
+      "validThrough": "2026-09-10",
+      "summary": "Produce code-quality welds on pressure vessels and structural steel for oil & gas fabrication in Dammam's Second Industrial City.",
+      "responsibilities": [
+        "Perform SMAW, GTAW and FCAW welding on carbon and stainless steel.",
+        "Pass 6G position tests and maintain welder qualification records.",
+        "Weld to WPS/PQR and interpret welding symbols on drawings.",
+        "Prepare joints, control distortion and meet radiographic acceptance.",
+        "Follow HSE, hot-work permit and PPE requirements."
+      ],
+      "requirements": [
+        "Trade certificate in Welding.",
+        "3+ years pressure-vessel / piping fabrication experience.",
+        "Valid 6G certification (ASME IX preferred).",
+        "Ability to pass an in-house weld test.",
+        "Available in KSA or willing to relocate with transferable Iqama."
+      ],
+      "benefits": [
+        "Accommodation and transport provided",
+        "Overtime and production incentives",
+        "Medical insurance",
+        "Annual ticket and leave"
+      ]
+    },
+    {
+      "slug": "production-planner-shuaiba-kuwait-food",
+      "title": "Production Planner",
+      "company": "Kuwait Food Processing Co.",
+      "category": "Supply Chain & Planning",
+      "city": "Shuaiba",
+      "region": "Al Ahmadi",
+      "country": "Kuwait",
+      "countryCode": "KW",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Mid level",
+      "remote": false,
+      "salaryMin": 700,
+      "salaryMax": 950,
+      "salaryCurrency": "KWD",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-17",
+      "validThrough": "2026-09-22",
+      "summary": "Build and balance the master production schedule for a food-processing plant in Shuaiba Industrial Area, Kuwait.",
+      "responsibilities": [
+        "Create weekly and daily production schedules to meet demand and stock targets.",
+        "Balance capacity, materials, manpower and changeovers for efficiency.",
+        "Run MRP in the ERP and release work orders to the shop floor.",
+        "Coordinate with procurement, warehouse and sales on availability.",
+        "Track schedule adherence, OEE and inventory KPIs."
+      ],
+      "requirements": [
+        "Bachelor's in Industrial Engineering, Supply Chain or related.",
+        "4+ years production planning in FMCG / food manufacturing.",
+        "Strong ERP (SAP / Oracle) and advanced Excel skills.",
+        "APICS CPIM certification a plus.",
+        "GCC experience preferred."
+      ],
+      "benefits": [
+        "Medical insurance",
+        "Transport allowance",
+        "Annual leave and ticket",
+        "Performance bonus"
+      ]
+    },
+    {
+      "slug": "electrical-maintenance-engineer-abu-dhabi-polymers",
+      "title": "Electrical Maintenance Engineer",
+      "company": "Abu Dhabi Polymers Industries",
+      "category": "Maintenance & Reliability",
+      "city": "Abu Dhabi",
+      "region": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Mid–Senior level",
+      "remote": false,
+      "salaryMin": 14000,
+      "salaryMax": 20000,
+      "salaryCurrency": "AED",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-16",
+      "validThrough": "2026-09-28",
+      "summary": "Lead electrical reliability for a polymer manufacturing plant in Abu Dhabi, covering HV/LV, drives, PLCs and instrumentation.",
+      "responsibilities": [
+        "Own preventive and predictive maintenance for electrical and control systems.",
+        "Troubleshoot PLCs (Siemens/Allen-Bradley), VFDs, MCCs and switchgear.",
+        "Lead shutdown electrical scopes and small capex modifications.",
+        "Manage spares, contractors and compliance with electrical standards.",
+        "Drive reliability improvements and reduce electrical downtime."
+      ],
+      "requirements": [
+        "Bachelor's in Electrical Engineering.",
+        "6+ years electrical maintenance in process / petrochemical plants.",
+        "Strong PLC, instrumentation and HV/LV experience.",
+        "Knowledge of hazardous-area (ATEX/IECEx) practices.",
+        "GCC plant experience required."
+      ],
+      "benefits": [
+        "Housing and transport allowance",
+        "Family medical insurance",
+        "Annual bonus",
+        "Leave and air tickets"
+      ]
+    },
+    {
+      "slug": "warehouse-logistics-supervisor-doha-industrial",
+      "title": "Warehouse & Logistics Supervisor",
+      "company": "Doha Industrial Supplies",
+      "category": "Supply Chain & Planning",
+      "city": "Doha",
+      "region": "Doha",
+      "country": "Qatar",
+      "countryCode": "QA",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Mid level",
+      "remote": false,
+      "salaryMin": 8000,
+      "salaryMax": 11000,
+      "salaryCurrency": "QAR",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-14",
+      "validThrough": "2026-09-12",
+      "summary": "Run raw-material and finished-goods warehousing and dispatch for an industrial manufacturing operation in Doha.",
+      "responsibilities": [
+        "Supervise receiving, storage, picking and dispatch teams.",
+        "Maintain inventory accuracy through cycle counts and WMS discipline.",
+        "Plan inbound and outbound logistics and fleet scheduling.",
+        "Enforce warehouse safety, 5S and materials-handling standards.",
+        "Report stock, service-level and cost KPIs."
+      ],
+      "requirements": [
+        "Diploma / Bachelor's in Logistics, Supply Chain or Business.",
+        "4+ years warehouse / logistics supervision in manufacturing.",
+        "Hands-on WMS/ERP and forklift-operations knowledge.",
+        "Strong team leadership and Excel skills.",
+        "Qatar / GCC experience preferred."
+      ],
+      "benefits": [
+        "Tax-free salary",
+        "Medical insurance",
+        "Transport allowance",
+        "Annual leave and ticket"
+      ]
+    },
+    {
+      "slug": "process-engineer-chemicals-yanbu",
+      "title": "Process Engineer (Chemicals)",
+      "company": "Yanbu Chemical Industries",
+      "category": "Engineering & Process",
+      "city": "Yanbu",
+      "region": "Al Madinah",
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Mid–Senior level",
+      "remote": false,
+      "salaryMin": 16000,
+      "salaryMax": 23000,
+      "salaryCurrency": "SAR",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-13",
+      "validThrough": "2026-09-26",
+      "summary": "Optimise process performance, yield and energy efficiency for a chemical manufacturing complex in Yanbu Industrial City.",
+      "responsibilities": [
+        "Monitor and troubleshoot continuous chemical process units.",
+        "Lead debottlenecking, yield and energy-optimisation studies.",
+        "Prepare and update P&IDs, mass balances and operating procedures.",
+        "Support HAZOP, MOC and process-safety reviews.",
+        "Drive plant KPIs and reliability with operations and maintenance."
+      ],
+      "requirements": [
+        "Bachelor's in Chemical Engineering.",
+        "5+ years process engineering in petrochemicals / chemicals.",
+        "Proficiency in process simulation (Aspen HYSYS/Plus).",
+        "Strong process-safety and MOC understanding.",
+        "GCC experience and transferable Iqama preferred."
+      ],
+      "benefits": [
+        "Housing and transport allowance",
+        "Family medical and schooling",
+        "Annual bonus",
+        "Leave and tickets"
+      ]
+    },
+    {
+      "slug": "assembly-line-operator-muscat-electronics",
+      "title": "Assembly Line Operator",
+      "company": "Muscat Electronics Manufacturing",
+      "category": "Production & Operations",
+      "city": "Muscat",
+      "region": "Muscat",
+      "country": "Oman",
+      "countryCode": "OM",
+      "employmentType": "FULL_TIME",
+      "experienceLevel": "Entry level",
+      "remote": false,
+      "salaryMin": 300,
+      "salaryMax": 420,
+      "salaryCurrency": "OMR",
+      "salaryPeriod": "MONTH",
+      "datePosted": "2026-07-24",
+      "validThrough": "2026-09-08",
+      "summary": "Assemble electronic products on a modern production line in Rusayl Industrial Estate, Muscat, with full on-the-job training.",
+      "responsibilities": [
+        "Assemble components and sub-assemblies to work instructions.",
+        "Perform in-line visual and functional quality checks.",
+        "Meet hourly output and first-pass-yield targets.",
+        "Maintain a clean, ESD-safe and 5S-compliant workstation.",
+        "Report defects and support continuous improvement."
+      ],
+      "requirements": [
+        "High-school diploma or technical certificate.",
+        "0–2 years experience; freshers welcome with training.",
+        "Good hand dexterity and attention to detail.",
+        "Willing to work in shifts.",
+        "Omani nationals strongly encouraged to apply."
+      ],
+      "benefits": [
+        "On-the-job training",
+        "Transport provided",
+        "Medical insurance",
+        "Attendance and productivity incentives"
+      ]
+    }
+  ]
+}
